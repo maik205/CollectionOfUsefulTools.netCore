@@ -1,0 +1,1 @@
+# CollectionOfUsefulTools.netCore
